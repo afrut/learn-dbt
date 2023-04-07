@@ -1,4 +1,4 @@
-
+gcp-credentials.json
 target/
 dbt_packages/
 logs/
